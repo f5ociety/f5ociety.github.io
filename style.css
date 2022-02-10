@@ -101,3 +101,12 @@ table {
 .indent {
 	padding-left: 20px;
 }
+
+#cr {
+	color: #fff;
+	text-align: left;
+}
+
+button {
+	margin-left: 80px;
+}
